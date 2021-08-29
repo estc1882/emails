@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKhCf+ZBL6gjgU2n5L94rqdb1S4cmA/BitPWHa+7BMYQk1bigmAZNN9Ez3CSTNmjxmSs2whYtwmhqsehb7rHiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e3226\\source\\repos\\Emailing_\\Emailing_\\Emailing_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e3226\\.nuget\\packages\\eagetmail\\5.2.2.2\\eagetmail.5.2.2.2.nupkg.sha512",
+    "C:\\Users\\e3226\\.nuget\\packages\\easendmail\\7.7.0.9\\easendmail.7.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
