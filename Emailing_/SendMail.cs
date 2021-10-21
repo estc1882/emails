@@ -14,8 +14,8 @@ namespace Emailing_
         {
 
             SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
-
-            smtpClient.Credentials = new System.Net.NetworkCredential("tzippy0548507213@gmail.com", "212129837");
+            smtpClient.Credentials = new System.Net.NetworkCredential("le212037139@gmail.com", "st6602!!");
+            //smtpClient.Credentials = new System.Net.NetworkCredential("tzippy0548507213@gmail.com", "212129837");
             // smtpClient.UseDefaultCredentials = true; // uncomment if you don't want to use the network credentials
             smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtpClient.EnableSsl = true;
